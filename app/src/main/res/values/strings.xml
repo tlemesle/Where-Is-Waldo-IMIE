@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Where Is Waldo IMIE</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="newGame">New Game</string>
+    <string name="timeTV">Time to find Waldo</string>
+    <string name="nextLevel">Next Level</string>
+    <string name="backMenu">Back to the menu</string>
+    <string name="loadGame">Load Game</string>
+    <string name="win">You find Waldo !</string>
+</resources>
